@@ -4,10 +4,11 @@
 
 class Carson < HappyDude
   def initialize
-    @hobbies = [ 'Writing', 'Podcasting', 'Language-ing' ]
     @interests = [ 'EV Supply Chain', 'History of: International Trade, China, Portugal, Brazil, Colonialism' ] 
     @languages = ['English', 'Mandarin', 'Portuguese']
     @education = [ 'Le Wagon Lisbon', 'PKU Yenching Academy', 'Middlebury Language Schools', 'Oklahoma State' ]
+    @hobbies = [ 'Writing', 'Podcasting', 'Language-ing' ]
+    
   end
 
   def currently
