@@ -1,27 +1,21 @@
-- 👋 Hi, I’m @carsonmulligan
-- 👀 I’m interested in languages 🕺, logistics 🚀, and agriculture 🌿
-- 💞️ I’m looking to collaborate on logistics solutions 🚦
-- 📫 How to reach me -- https://www.linkedin.com/in/carsonmulliganosu/
 
-Check out this demo of our payments application! https://youtu.be/trEv1iPgZsY
-Hi there! A little bit about me:，
-
-，
 
 ```ruby
 
-class Carson < Hacker
+class Carson < HappyDude
   def initialize
-    @names = [ 'Carson', '木林森', 'Miguelito']
-    @age = 26
-    @education = [ 'Le Wagon', 'PKU YCA', 'OkState']
-    @hobbies = [ 'Writing', 'Skiing', 'Language-ing' ]
+    @education = [ 'Le Wagon Lisbon', 'PKU Yenching Academy', 'Middlebury Language Schools', 'Oklahoma State' ]
+    @hobbies = [ 'Writing', 'Podcasting', 'Language-ing' ]
+    @interests = [ 'History of International Trade', 'Electrification & EV Supply Chain', 'History of Colonialism' ] 
+    @languages = ['English', 'Mandarin', 'Portuguese']
   end
 
   def currently
     {
-      studying: [ 'React', 'C programming Language', 'Data Analysis with python' ],
-      tinkering: [ 'Linear Algebra', 'Python' ]
+      reading: [ 'The Clean Coder by Robert Martin', 'National Blueprint for Lithium Batteries 2021-2031', 'Mad Man's Diary by Lu Xun']
+      listening: [ 'The British in India by David Gilmour', 'Darket Diaries by Jack Rhysider', 'DHH Podcasts']
+      studying: [ 'How to make EV batteries', 'How to move EV batteries', 'How to speak Spanish' ]
+      tinkering: [ 'Ruby on Rails', 'JavaScript', 'Fukuoka Farming' ]
      }
   end
 end
