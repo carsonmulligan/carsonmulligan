@@ -4,7 +4,8 @@
 
 class Carson < HappyDude
   def initialize
-    @interests = [ 'EV Supply Chain', 'History of: International Trade, China, Portugal, Brazil, Colonialism' ] 
+    @tools = [ 'Ruby on Rails', 'APIs', 'Energy, Agriculture, & Logistics Data' ]
+    @interests = [ 'Lithium Batteries', 'Semiconductors', 'Cloud computing hardware' ] 
     @languages = ['English', 'Mandarin', 'Portuguese']
     @education = [ 'Le Wagon Lisbon', 'PKU Yenching Academy', 'Middlebury Language Schools', 'Oklahoma State' ]
     @hobbies = [ 'Writing', 'Podcasting', 'Language-ing' ]
