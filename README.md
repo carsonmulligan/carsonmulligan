@@ -18,7 +18,7 @@ class Carson < HappyDude
       listening: [ 'The British in India by David Gilmour', 'Darknet Diaries by Jack Rhysider', 'DHH Podcasts']
       speaking: [ 'Freestyle Rap', 'To the homies', 'The Carson Mulligan Podcast' ]
       studying: [ 'How to make EV batteries', 'How to move EV batteries', 'How to speak Spanish' ]
-      tinkering: [ 'Ruby on Rails', 'JavaScript', 'Fukuoka Farming' ]
+      tinkering: [ 'React', 'Python', 'Fukuoka Farming' ]
      }
   end
 end
