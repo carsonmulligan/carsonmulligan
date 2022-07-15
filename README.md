@@ -13,7 +13,7 @@ class Carson < HappyDude
 
   def currently
     {
-      reading: [ 'Foundation Trilogy by Isaac Asimov', The Clean Coder by Robert Martin' ]
+      reading: [ 'Foundation Trilogy by Isaac Asimov', 'The Clean Coder by Robert Martin' ]
       writing: [ 'Untitled stories', 'Fun poems', 'Rendezvouz' ]
       listening: [ 'The British in India by David Gilmour', 'Darknet Diaries by Jack Rhysider', 'DHH Podcasts']
       speaking: [ 'Freestyle Rap', 'To the homies', 'The Carson Mulligan Podcast' ]
