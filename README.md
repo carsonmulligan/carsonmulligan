@@ -6,7 +6,7 @@ class Carson < HappyDude
   def initialize
     @tools = [ 'Ruby on Rails', 'APIs', 'Energy, Agriculture, & Logistics Data' ]
     @interests = [ 'Lithium Batteries', 'Semiconductors', 'Cloud computing hardware' ] 
-    @languages = ['English', 'Mandarin', 'Portuguese']
+    @languages = [ 'English', 'Mandarin', 'Portuguese']
     @education = [ 'Le Wagon Lisbon', 'PKU Yenching Academy', 'Middlebury Language Schools', 'Oklahoma State' ]
     @hobbies = [ 'Writing', 'Podcasting', 'Language-ing' ]
   end
