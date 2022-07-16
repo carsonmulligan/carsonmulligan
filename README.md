@@ -15,7 +15,7 @@ class Carson < HappyDude
     {
       reading: [ 'Foundation by Isaac Asimov', 'The Clean Coder by Robert Martin' ]
       writing: [ 'Untitled stories', 'Fun poems', 'Rendezvouz' ]
-      listening: [ 'Darknet Diaries by Jack Rhysider', 'Tim Ferriss']
+      listening: [ 'Darknet Diaries by Jack Rhysider']
       speaking: [ 'Freestyle Rap', 'To the homies', 'The Carson Mulligan Podcast' ]
       studying: [ 'How to make EV batteries', 'How to move EV batteries', 'How to speak Spanish' ]
       tinkering: [ 'React', 'Python', 'Fukuoka Farming' ]
