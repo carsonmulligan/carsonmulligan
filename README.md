@@ -13,7 +13,7 @@ class Carson < HappyDude
 
   def currently
     {
-      reading: [ 'Namibian Sketches by Joseph R. Nostrand' ]
+      reading: [ 'Namibian Sketches by J.W. Nostrand' ]
       writing: [ 'Untitled stories', 'Fun poems', 'Rendezvouz' ]
       listening: [ 'Darknet Diaries by Jack Rhysider' ]
       speaking: [ 'Freestyle Rap', 'To the homies', 'The Carson Mulligan Podcast' ]
