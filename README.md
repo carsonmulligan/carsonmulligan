@@ -5,7 +5,7 @@
 class Carson < HappyDude
   def initialize
     @tools = [ 'Ruby on Rails', 'APIs', 'Energy, Agriculture, & Logistics Data' ]
-    @interests = [ 'Electric Vehicle Batteries', 'Supply Chains', 'Air Freight Logistics' ] 
+    @interests = [ 'Changing Supply Chains', 'Air Freight Logistics' ] 
     @languages = [ 'English', 'Mandarin', 'Portuguese']
     @education = [ 'Le Wagon Lisbon', 'PKU Yenching Academy', 'Middlebury Language Schools', 'Oklahoma State' ]
     @hobbies = [ 'Writing', 'Podcasting', 'Language-ing' ]
@@ -17,8 +17,8 @@ class Carson < HappyDude
       writing: [ 'Untitled stories', 'Fun poems', 'Rendezvouz' ]
       listening: [ 'Darknet Diaries by Jack Rhysider' ]
       speaking: [ 'Freestyle Rap', 'To the homies', 'The Carson Mulligan Podcast' ]
-      studying: [ 'How to make EV batteries', 'How to move EV batteries', 'How to speak Spanish' ]
-      tinkering: [ 'React', 'Python', 'Fukuoka Farming' ]
+      studying: [ 'How to move freight better', 'How to speak Spanish' ]
+      tinkering: [ 'Fukuoka Farming', 'Wildflower Seed Bombs' ]
      }
   end
 end
