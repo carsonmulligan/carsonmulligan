@@ -13,7 +13,7 @@ class Carson < HappyDude
 
   def currently
     {
-      reading: [ 'Foundation by Isaac Asimov', 'The Clean Coder by Robert Martin' ]
+      reading: [ 'Namibian Sketches by Joseph R. Nostrand' ]
       writing: [ 'Untitled stories', 'Fun poems', 'Rendezvouz' ]
       listening: [ 'Darknet Diaries by Jack Rhysider' ]
       speaking: [ 'Freestyle Rap', 'To the homies', 'The Carson Mulligan Podcast' ]
