@@ -15,7 +15,7 @@ class Carson < HappyDude
     {
       reading: [ 'Namibian Sketches by J.W. Nostrand' ]
       writing: [ 'Untitled stories', 'Fun poems', 'Rendezvouz' ]
-      listening: [ 'Darknet Diaries by Jack Rhysider' ]
+      listening: [ 'Tom Clancy' ]
       speaking: [ 'Freestyle Rap', 'To the homies', 'The Carson Mulligan Podcast' ]
       studying: [ 'How to move freight better', 'How to speak Spanish' ]
       tinkering: [ 'Fukuoka Farming', 'Wildflower Seed Bombs' ]
