@@ -13,9 +13,9 @@ class Carson < HappyDude
 
   def currently
     {
-      reading: [ 'For Whom The Bell Tolls' ]
+      reading: [ '莊子七講-王邦雄' ]
       writing: [ 'Untitled stories', 'Fun poems', 'Rendezvouz' ]
-      listening: [ 'Tom Clancy' ]
+      listening: [ 'DarkNet Diaries' ]
       speaking: [ 'Freestyle Rap', 'To the homies', 'The Carson Mulligan Podcast' ]
       studying: [ 'How to move freight better', 'How to speak Spanish' ]
       tinkering: [ 'Fukuoka Farming', 'Wildflower Seed Bombs' ]
