@@ -13,7 +13,7 @@ class Carson < HappyDude
 
   def currently
     {
-      reading: [ '莊子七講-王邦雄' ]
+      reading: [ 'Foundation Trilogy' ]
       writing: [ 'Untitled stories', 'Fun poems', 'Rendezvouz' ]
       listening: [ 'DarkNet Diaries' ]
       speaking: [ 'Freestyle Rap', 'To the homies', 'The Carson Mulligan Podcast' ]
