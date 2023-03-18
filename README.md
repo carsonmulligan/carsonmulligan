@@ -13,7 +13,7 @@ class Carson < HappyDude
 
   def currently
     {
-      reading: [ 'A Gentleman in Moscow' ]
+      reading: [ 'Attatürk by Andrew Mango' ]
       writing: [ 'Untitled stories', 'Fun poems', 'Rendezvouz' ]
       listening: [ 'DarkNet Diaries' ]
       speaking: [ 'Freestyle Rap', 'To the homies', 'The Carson Mulligan Podcast' ]
