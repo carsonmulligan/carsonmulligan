@@ -13,12 +13,12 @@ class Carson < HappyDude
 
 <!--   def currently
     {
-      reading: [ 'Attatürk by Andrew Mango' ]
-      writing: [ 'Untitled stories', 'Fun poems', 'Rendezvouz' ]
-      listening: [ '' ]
-      speaking: [ 'Freestyle Rap', 'To the homies', 'The Carson Mulligan Podcast' ]
-      studying: [ 'How to move freight better', 'How to speak Spanish' ]
-      tinkering: [ 'Fukuoka Farming', 'Wildflower Seed Bombs' ]
+      reading: [ 'Lots of stuff about France' ]
+      writing: [ 'Comments in Databricks' ]
+      listening: [ 'Silver Burch by Rudy Raw' ]
+      speaking: [ 'Freestyle Rap', 'To the homies', ]
+      studying: [ 'Freight moving', 'French' ]
+      tinkering: [ 'Guerilla gardening' ]
      }
   end
 end -->
