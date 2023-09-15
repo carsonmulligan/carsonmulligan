@@ -4,7 +4,7 @@
 
 class Carson < HappyDude
   def initialize
-    @tools = [ '' ]
+    @tools = [ 'Python', 'Spark', 'SQL',  'Databricks', 'Ruby on Rails' ]
     @interests = [ 'Supply Chains', 'Language Acquisition' ] 
     @languages = [ 'English', 'Mandarin', 'Portuguese']
     @education = [ 'Le Wagon Lisbon', 'PKU Yenching Academy', 'Middlebury Language Schools', 'Oklahoma State' ]
