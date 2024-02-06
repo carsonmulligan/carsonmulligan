@@ -6,8 +6,7 @@ class Carson < HappyDude
   def initialize
     @tools = [ 'Python', 'Spark', 'SQL',  'Databricks', 'Ruby on Rails' ]
     @interests = [ 'Supply Chains', 'Language Acquisition' ] 
-    @languages = [ 'English', 'Mandarin', 'Portuguese']
-    @education = [ 'Le Wagon Lisbon', 'PKU Yenching Academy', 'Middlebury Language Schools', 'Oklahoma State' ]
+    @languages = [ 'English', 'Mandarin', 'Portuguese', 'French']
     @hobbies = [ 'Writing', 'Podcasting', 'Language-ing' ]
   end
 
