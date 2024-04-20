@@ -10,7 +10,7 @@ class Carson < HappyDude
     @hobbies = [ 'Writing', 'Podcasting', 'Language-ing' ]
   end
 
-<!--   def currently
+  def currently
     {
       reading: [ 'Lots of stuff about France' ]
       writing: [ 'Comments in Databricks' ]
@@ -20,5 +20,5 @@ class Carson < HappyDude
       tinkering: [ 'Guerilla gardening' ]
      }
   end
-end -->
+end 
 ```
