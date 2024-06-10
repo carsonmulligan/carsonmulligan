@@ -14,7 +14,7 @@ class Carson < HappyDude
     {
       reading: [ 'Lots of stuff about Central America' ]
       writing: [ 'Comments in Databricks' ]
-      listening: [ 'Silver Burch by Rudy Raw' ]
+      listening: [ 'La Cotorissa' ]
       speaking: [ 'Freestyle Rap', 'To the homies', ]
       studying: [ 'Freight moving', 'Españolsito' ]
       tinkering: [ 'Guerilla gardening' ]
