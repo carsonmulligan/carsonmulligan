@@ -7,7 +7,7 @@ class Carson < HappyDude
     @tools = [ 'Python', 'PySpark', 'SQL',  'Databricks', 'Ruby on Rails' ]
     @interests = [ 'Supply Chains', 'Language Acquisition' ] 
     @languages = [ 'English', 'Mandarin', 'Portuguese', 'French', 'Spanish']
-    @hobbies = [ 'Writing', 'Podcasting', 'Language-ing' ]
+    @hobbies = [ 'Writing', 'Podcasting', 'Language Learning' ]
   end
 
   def currently
