@@ -20,6 +20,8 @@ class Carson < HappyDude
       tinkering: [ 'Guerilla gardening' ]
      }
   end
-end 
+end
+
+CURRENT NOTE: Hope yall are well. May 2024 I started coding for fun each morning as a ritual linked to drinking coffee -- it's a fun way to get your mind started for the day. I highly recommend the book Atomic Habits. Keep on keeping on
+
 ```
-NOTE: around 5/12/2024 i read Atomic Habits and started coding everyday for fun. i highly recommend the book
