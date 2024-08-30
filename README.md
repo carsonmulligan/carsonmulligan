@@ -22,3 +22,4 @@ class Carson < HappyDude
   end
 end 
 ```
+NOTE: around 5/12/2024 i read Atomic Habits and started coding everyday for fun. i highly recommend the book
