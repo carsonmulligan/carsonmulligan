@@ -22,6 +22,11 @@ class Carson < HappyDude
   end
 end
 
-CURRENT NOTE: Hope yall are well. May 2024 I started coding for fun each morning as a ritual linked to drinking coffee -- it's a fun way to get your mind started for the day. I highly recommend the book Atomic Habits. Keep on keeping on
+# NOTE:
+# Hope yall are well. May 2024 I started coding for fun each morning
+# as a ritual linked to drinking coffee --
+# it's a fun way to get your mind started for the day.
+# I highly recommend the book Atomic Habits.
+# Keep on keeping on
 
 ```
