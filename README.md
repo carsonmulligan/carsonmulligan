@@ -14,7 +14,7 @@ class Carson < HappyDude
     {
       reading: [ 'Lots of stuff about Planets and Stars' ]
       writing: [ 'Comments in Databricks' ]
-      listening: [ 'Ted Talks in Italiano' ]
+      listening: [ 'Nemzzz lol' ]
       speaking: [ 'Freestyle Rap', 'To the homies', ]
       studying: [ 'Freight moving', 'Documentari di Astrofisica' ]
       tinkering: [ 'Guerilla gardening' ]
