@@ -12,7 +12,7 @@ class Carson < HappyDude
 
   def currently
     {
-      reading: [ 'Lots of stuff about Planets and Stars' ]
+      reading: [ 'about unsolved questions in science' ]
       writing: [ 'Comments in Databricks' ]
       listening: [ 'Nemzzz lol' ]
       speaking: [ 'Freestyle Rap', 'To the homies', ]
