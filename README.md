@@ -17,7 +17,7 @@ class Carson < HappyDude
       listening: [ 'Friday Night by Beck Martin' ]
       speaking: [ 'Freestyle Rap', 'To the homies', ]
       studying: [ 'Models of Network Analysis', 'Language Learning Tools' ]
-      tinkering: [ 'Rasberry Pi 400' ]
+      tinkering: [ 'Open World Game Concepts' ]
      }
   end
 end
