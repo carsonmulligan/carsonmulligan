@@ -14,10 +14,10 @@ class Carson < HappyDude
     {
       reading: [ 'Science Fiction Classics' ]
       writing: [ 'Journal entries in Gitub' ]
-      listening: [ 'Friday Night by Beck Martin' ]
-      speaking: [ 'Freestyle Rap', 'To the homies', ]
-      studying: [ 'Models of Network Analysis', 'Language Learning Tools' ]
-      tinkering: [ 'Open World Game Concepts' ]
+      listening: [ 'Twelve Caesars' ]
+      speaking: [ 'To the homies', ]
+      studying: [ 'Italian', 'Language Learning Tools' ]
+      tinkering: [ 'Latin-Spanish-English Texts' ]
      }
   end
 end
