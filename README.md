@@ -15,7 +15,6 @@ class Carson < HappyDude
       reading: [ 'Science Fiction Classics' ]
       writing: [ 'Journal entries in Gitub' ]
       listening: [ 'Twelve Caesars' ]
-      speaking: [ 'To the homies', ]
       studying: [ 'Italian', 'Language Learning Tools' ]
       tinkering: [ 'Latin-Spanish-English Texts' ]
      }
